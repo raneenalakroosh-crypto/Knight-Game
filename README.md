@@ -1,8 +1,7 @@
-# Knight-Game
-A simple 2D knight game built using Godot
-# ⚔️ Knight Game | لعبة الفارس
 
-A simple 2D/3D knight game built using Unity 🎮  
+# ⚔️ Knight Game  
+
+A simple 2D knight game built using Unity 🎮  
 لعبة الفارس تم تطويرها باستخدام Unity.
 
 ---
