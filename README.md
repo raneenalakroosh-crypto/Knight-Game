@@ -28,7 +28,7 @@ Defeat enemies and survive as long as possible.
 
 ---
 
-## 📸 Screenshots | صور من اللعبة
+## 📸 Images | صور من اللعبة
 
 (Add your images here)  
 (حط صور هنا)
@@ -44,8 +44,8 @@ Defeat enemies and survive as long as possible.
 
 ## 🛠️ Built With | التقنيات
 
-- Unity 🎮  
-- C# 💻  
+- Godot 🎮  
+    
 
 ---
 
@@ -56,7 +56,5 @@ Defeat enemies and survive as long as possible.
 
 ---
 
-## 👨‍💻 Developer | المطور
+ 
 
-Your Name  
-اسمك
